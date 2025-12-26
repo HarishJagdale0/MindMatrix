@@ -1,5 +1,5 @@
 # MindMatrix
 bbkjk bkhg gihih khi g
 bh njoojl jpoln nkkutx v
-wqertyuiop[]\asdfghj
+wqertyuiop
 /.,mnbbvccxz
