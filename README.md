@@ -1,4 +1,3 @@
 # MindMatrix
 bbkjk bkhg gihih khi g
-bh njoojl jpoln nkkutx v
-w
+bh njoojl jpoln nkkutx
