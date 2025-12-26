@@ -1,3 +1,2 @@
 # MindMatrix
-bbkjk bkhg gihih khi g
-bh nj
+bbkjk bkhg gihih khi 
