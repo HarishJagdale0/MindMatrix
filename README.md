@@ -1,2 +1,2 @@
 # MindMatrix
-bbkjk bkhg gihih khi 
+bbkjk bkhg 
