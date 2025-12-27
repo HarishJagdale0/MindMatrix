@@ -73,6 +73,25 @@
 * 🌐 API-ready architecture
 * 📈 Extensible & modular design
 
+# MindMatrix AI 🏆
+
+<p align="center">
+  <!-- PyPI Version Badge -->
+  <img src="https://img.shields.io/pypi/v/mindmatrix_ai?color=4CAF50&style=for-the-badge" alt="PyPI Version" />
+
+  <!-- License Badge -->
+  <img src="https://img.shields.io/github/license/username/mindmatrix-ai?color=2196F3&style=for-the-badge" alt="License" />
+</p>
+
+<p align="center">
+  <!-- Animated AI Trophy / Logo -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="150" alt="MindMatrix AI Trophy" />
+</p>
+
+## Installation
+```bash
+pip install mindmatrix_ai
+
 ---
 
 ## 🛠️ Tech Stack
