@@ -32,8 +32,26 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897744-9b0f9c7a-6c8f-4f6a-9d92-9a4b7b6fcb3b.gif" width="700" />
 </p>
-~ See Live Here: https://harishjagdale0.github.io/MindMatrix/
+
 <img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/25a0535d-c197-4d2f-85d3-d831dcbb4dda" />
+
+## MindMatrix AI Assistant - Quick Actions
+
+<p align="center">
+  <a href=" https://harishjagdale0.github.io/MindMatrix/" target="_blank">
+    <img src="https://img.shields.io/badge/Open%20Dashboard-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Open Dashboard" />
+  </a>
+  <a href="https://your-app-link.com/chat" target="_blank">
+    <img src="https://img.shields.io/badge/Chat%20with%20AI-2196F3?style=for-the-badge&logo=messenger&logoColor=white" alt="Chat with AI" />
+  </a>
+  <a href="https://your-app-link.com/settings" target="_blank">
+    <img src="https://img.shields.io/badge/Settings-FF9800?style=for-the-badge&logo=gear&logoColor=white" alt="Settings" />
+  </a>
+  <a href="https://your-app-link.com/analytics" target="_blank">
+    <img src="https://img.shields.io/badge/Analytics-9C27B0?style=for-the-badge&logo=chart&logoColor=white" alt="Analytics" />
+  </a>
+</p>
+
 ---
 
 ## ✨ Key Features
