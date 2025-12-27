@@ -51,6 +51,16 @@
   </a>
 </p>
 
+<p align="center">
+  <!-- Animated Typing Badge -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=4CAF50&center=true&vCenter=true&multiline=true&width=600&lines=Your+AI+Productivity+Assistant;Smart+Insights+%26+Analytics;Chat+with+AI" alt="Animated Typing AI" />
+</p>
+
+<p align="center">
+  <!-- Animated Trophy GIF -->
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="Animated AI Trophy" width="150"/>
+</p>
+
 ---
 
 ## ✨ Key Features
