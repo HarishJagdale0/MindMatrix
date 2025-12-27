@@ -40,13 +40,13 @@
   <a href=" https://harishjagdale0.github.io/MindMatrix/" target="_blank">
     <img src="https://img.shields.io/badge/Open%20Dashboard-4CAF50?style=for-the-badge&logo=appveyor&logoColor=white" alt="Open Dashboard" />
   </a>
-  <a href="https://your-app-link.com/chat" target="_blank">
+  <a href=" https://harishjagdale0.github.io/MindMatrix/" target="_blank">
     <img src="https://img.shields.io/badge/Chat%20with%20AI-2196F3?style=for-the-badge&logo=messenger&logoColor=white" alt="Chat with AI" />
   </a>
-  <a href="https://your-app-link.com/settings" target="_blank">
+  <a href=" https://harishjagdale0.github.io/MindMatrix/" target="_blank">
     <img src="https://img.shields.io/badge/Settings-FF9800?style=for-the-badge&logo=gear&logoColor=white" alt="Settings" />
   </a>
-  <a href="https://your-app-link.com/analytics" target="_blank">
+  <a href=" https://harishjagdale0.github.io/MindMatrix/" target="_blank">
     <img src="https://img.shields.io/badge/Analytics-9C27B0?style=for-the-badge&logo=chart&logoColor=white" alt="Analytics" />
   </a>
 </p>
