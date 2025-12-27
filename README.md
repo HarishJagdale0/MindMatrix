@@ -56,6 +56,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=4CAF50&center=true&vCenter=true&multiline=true&width=600&lines=Your+AI+Productivity+Assistant;Smart+Insights+%26+Analytics;Chat+with+AI" alt="Animated Typing AI" />
 </p>
 
+
+
+
+
 ---
 
 ## ✨ Key Features
