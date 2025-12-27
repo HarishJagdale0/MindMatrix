@@ -1,4 +1,3 @@
-# MindMatrix
 # 🧠✨ MindMatrix
 
 <p align="center">
