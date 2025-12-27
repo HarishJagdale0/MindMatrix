@@ -33,8 +33,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897744-9b0f9c7a-6c8f-4f6a-9d92-9a4b7b6fcb3b.gif" width="700" />
 </p>
 ~ See Live Here: https://harishjagdale0.github.io/MindMatrix/
-
-
+<img width="1536" height="1024" alt="Image" src="https://github.com/user-attachments/assets/25a0535d-c197-4d2f-85d3-d831dcbb4dda" />
 ---
 
 ## ✨ Key Features
