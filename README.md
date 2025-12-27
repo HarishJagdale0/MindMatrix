@@ -10,9 +10,14 @@
   <img src="https://img.shields.io/github/forks/your-username/mindmatrix?style=for-the-badge" />
   <img src="https://img.shields.io/github/license/your-username/mindmatrix?style=for-the-badge" />
   <img src="https://img.shields.io/badge/AI-Powered-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Assisted-lightgrey?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Intelligent-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-LLM-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Automation-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-NextGen-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI-Trophies-yellow?style=for-the-badge" />
 </p>
 
----
 
 ## 🚀 What is MindMatrix?
 
@@ -28,6 +33,8 @@
   <img src="https://user-images.githubusercontent.com/74038190/212897744-9b0f9c7a-6c8f-4f6a-9d92-9a4b7b6fcb3b.gif" width="700" />
 </p>
 ~ See Live Here: https://harishjagdale0.github.io/MindMatrix/
+
+
 ---
 
 ## ✨ Key Features
