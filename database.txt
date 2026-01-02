@@ -1,0 +1,70 @@
+1. DATABASE OVERVIEW
+--------------------------------------------------
+This database stores and manages application data.
+The schema is designed for efficient data storage,
+easy retrieval, and clear relationships between data
+entities. It is suitable for applications using MongoDB.
+
+Database Type : MongoDB
+Data Model    : NoSQL document-based
+
+--------------------------------------------------
+2. COLLECTIONS DETAILS
+--------------------------------------------------
+
+Collection Name : users
+Description     : Stores registered user information.
+
+Fields:
+- _id            : ObjectId (Primary Key)
+- name           : String
+- email          : String (Unique)
+- password       : String (Encrypted)
+- role           : String (admin/user)
+- createdAt      : Date
+
+--------------------------------------------------
+
+Collection Name : projects
+Description     : Stores project details.
+
+Fields:
+- _id            : ObjectId (Primary Key)
+- title          : String
+- description    : String
+- ownerId        : ObjectId (Reference: users)
+- createdAt      : Date
+- status         : String
+
+--------------------------------------------------
+
+Collection Name : tasks
+Description     : Stores tasks related to projects.
+
+Fields:
+- _id            : ObjectId (Primary Key)
+- projectId      : ObjectId (Reference: projects)
+- title          : String
+- status         : String
+- assignedTo     : ObjectId (Reference: users)
+- dueDate        : Date
+
+--------------------------------------------------
+3. RELATIONSHIPS
+--------------------------------------------------
+- One user can have multiple projects.
+- Each task belongs to one project.
+- A task can be assigned to one user.
+
+--------------------------------------------------
+4. SECURITY MEASURES
+--------------------------------------------------
+- Passwords stored encrypted using bcrypt.
+- Use environment variables for database credentials.
+- Role based access control implemented (admin/user).
+
+--------------------------------------------------
+5. FUTURE ENHANCEMENTS
+--------------------------------------------------
+- Add indexes for faster queries.
+- Implement backups and database logs.
