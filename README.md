@@ -34,7 +34,7 @@
 
 ---
 
-## 🎬 Live Preview (Animated Concept)
+## 🎬 Live Preview 
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212897744-9b0f9c7a-6c8f-4f6a-9d92-9a4b7b6fcb3b.gif" width="700" />
