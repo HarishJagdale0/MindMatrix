@@ -1,4 +1,4 @@
-1. DATABASE OVERVIEW
+1. DATABASE OVERVIEW:-
 --------------------------------------------------
 This database stores and manages application data.
 The schema is designed for efficient data storage,
@@ -9,7 +9,7 @@ Database Type : MongoDB
 Data Model    : NoSQL document-based
 
 --------------------------------------------------
-2. COLLECTIONS DETAILS
+2. COLLECTIONS DETAILS:-
 --------------------------------------------------
 
 Collection Name : users
